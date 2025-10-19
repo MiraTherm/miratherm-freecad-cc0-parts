@@ -11,5 +11,3 @@ All files in this repository are dedicated to the public domain under **CC0 1.0 
 You are free to use them for your own projects without any restrictions (including commercially and without attribution). 
 
 See the [LICENSE](LICENSE) file for details.
-
-Copyright (c) 2025 MiraTherm.
